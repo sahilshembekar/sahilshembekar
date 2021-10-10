@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilshembekar&count_private=true&show_icons=true&theme=chartreuse-dark)]
+(https://github-readme-stats.vercel.app/api?username=sahilshembekar&count_private=true&show_icons=true&theme=chartreuse-dark)
 
 
 <!--
