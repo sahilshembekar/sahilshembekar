@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilshembekar&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilshembekar&count_private=true&show_icons=true&theme=chartreuse-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshembekar&layout=compact)]
 
 Work in progress.
 <!--
