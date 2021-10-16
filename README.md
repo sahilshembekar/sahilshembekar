@@ -4,6 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshembekar&layout=compact)
 
 Work in progress.
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sahilshembekar.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+
 <!--
 **sahilshembekar/sahilshembekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
