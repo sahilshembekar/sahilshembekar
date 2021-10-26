@@ -1,23 +1,6 @@
-### Hi there 👋
-
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilshembekar&count_private=true&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshembekar&layout=compact)
-
-Work in progress.
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sahilshembekar.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
-
-<!--
-**sahilshembekar/sahilshembekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/sahilshembekar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilshembekar&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/sagulshembekar/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshembekar&layout=compact" />
+</a>
