@@ -3,24 +3,27 @@
 
 I am a Robotics Engineer working in Japan.
 
+
+<!---
 ## About me
 
 * Robotics Engineer 
 * Proficient in Mechanical Design softwares and currently improving skills in C++ and ROS
 * Improving DataStructure and Algorithm skills by solving LeetCode problems
 
+--->
+
 <!--- Wrap text for comments ---> 
 
 
 <!--- ## Connect with me on:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- ---> 
+  
  ##
-I am also developing my personal website. It is still under development. 
-
+I am developing my personal website. It is still under development. 
 
 Check it out here: https://sahil-shembekar.netlify.app/
-
+--->
 
 ## Github Stats
 
