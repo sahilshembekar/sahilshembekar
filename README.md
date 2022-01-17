@@ -47,5 +47,3 @@ Check it out here: https://sahil-shembekar.netlify.app/
 <a href="https://github.com/sahilshembekar/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshembekar&layout=compact&theme=chartreuse-dark" />
 </a>
-
-##
