@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-I am a Robotics Engineer working in Japan.
+Welcome to my GitHub Profile!
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sahilshembekar.visitor-badge&left_color=red&right_color=green&left_text=TotalVisitors)
 
 
 <!---
@@ -36,14 +38,14 @@ Check it out here: https://sahil-shembekar.netlify.app/
 </a>
 --->
 <!--- Work in progress.Wrap text for comments ---> 
-
+<!--- Wrap text for comments
 <a href="https://github.com/sahilshembekar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilshembekar&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true" />
 </a>
+
+ ---> 
 <a href="https://github.com/sahilshembekar/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilshembekar&layout=compact&theme=chartreuse-dark" />
 </a>
 
 ##
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sahilshembekar.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
